@@ -1,0 +1,29 @@
+{
+    "correlation": {
+        "Degree": {
+            "Degree": 0.9999999999999998,
+            "Closeness": 0.9998388813003625,
+            "Betweenness": 0.993781097180919,
+            "Eigenvector": 0.9954762615064581
+        },
+        "Closeness": {
+            "Degree": 0.9998388813003625,
+            "Closeness": 1.0,
+            "Betweenness": 0.9936224566915568,
+            "Eigenvector": 0.995327297165829
+        },
+        "Betweenness": {
+            "Degree": 0.9937810971809189,
+            "Closeness": 0.9936224566915568,
+            "Betweenness": 1.0,
+            "Eigenvector": 0.9795439155439156
+        },
+        "Eigenvector": {
+            "Degree": 0.9954762615064581,
+            "Closeness": 0.995327297165829,
+            "Betweenness": 0.9795439155439156,
+            "Eigenvector": 1.0
+        }
+    },
+    "description": "High correlation between Degree and Betweenness suggests that the most connected nodes are also the primary gatekeepers."
+}

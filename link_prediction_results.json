@@ -1,0 +1,14 @@
+{
+    "Common Neighbors": {
+        "auc": 0.503018613865778,
+        "precision_at_k": 0.01
+    },
+    "Adamic-Adar": {
+        "auc": 0.5032116543745153,
+        "precision_at_k": 0.01
+    },
+    "Katz": {
+        "auc": 0.5031806205296144,
+        "precision_at_k": 0.01
+    }
+}
