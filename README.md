@@ -42,6 +42,6 @@ streamlit run app.py
 ```
 
 ## Authors
-- Individual Project by [Your Name]
+- Individual Project by [Omar Elborollosy]
 - Course: C-DE422 – Big Data Engineering II: Social Network Analytics
 - Spring 2026
