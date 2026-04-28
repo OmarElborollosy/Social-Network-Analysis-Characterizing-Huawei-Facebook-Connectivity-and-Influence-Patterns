@@ -1,0 +1,2 @@
+# Social-Network-Analysis-Characterizing-Huawei-Facebook-Connectivity-and-Influence-Patterns
+This project presents a comprehensive Social Network Analysis (SNA) of the Huawei Facebook interaction network. Utilizing a dataset of 1,000 nodes, I applied topological exploratory analysis, multi-dimensional centrality measurement, modularity-based community detection, and similarity-based link prediction. 
